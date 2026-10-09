@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-character.png" alt="Make it work. Show the evidence. Illustrated portrait with sunglasses and blue-and-white stripes." width="100%" />
+  <img src="assets/profile-hero-evidence.png" alt="Make it work. Show the evidence. Illustrated portrait with sunglasses and blue-and-white stripes." width="100%" />
 </p>
 
 # Hi, I'm @2417467487-hub.
