@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="assets/profile-character.png" alt="Illustrated portrait with sunglasses and blue-and-white stripes" width="100%" />
+  <img src="assets/profile-character.png" alt="Make it work. Show the evidence. Illustrated portrait with sunglasses and blue-and-white stripes." width="100%" />
 </p>
 
 # Hi, I'm @2417467487-hub.
 
-I build data and AI projects from the dataset up: **clear baselines, careful evaluation, and usable interfaces.**
+I work on AI projects where a working demo is only the first step. I care about **baselines, failure cases, and honest evaluation**—then I turn the useful part into something people can run.
 
-**Exploring** recommendation systems · reliable model evaluation · practical AI tools<br />
+**Exploring** graph learning · recommendation systems · model evaluation · practical AI tools<br />
 **Open to** algorithm, data science, and applied AI internships
 
-## Featured project
+## One project you can run
 
 ### [Trend2Video Pro](https://github.com/2417467487-hub/Trend2Video-Pro)
 
